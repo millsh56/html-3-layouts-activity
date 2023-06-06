@@ -1,13 +1,9 @@
 span {
     display: inline-block;
-  }
-  /* span {
-    display: inline-block;
-    background-color: lightblue;
+    background-color: lightseagreen;
     padding: 5px;
     border: 1px solid darkgray;
-  } */
-  /* 
+  }  
   #one {
     background-color:lightblue;
     width: 150px;
@@ -26,7 +22,7 @@ span {
     height: 150px;
   } */
   
-  /* div,
+  div,
   span {
     margin: 1px;
   }
@@ -44,4 +40,4 @@ span {
   
   #text span {
     background-color: white;
-  } */
+  } 
